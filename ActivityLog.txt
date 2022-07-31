@@ -1,0 +1,10 @@
+102, E20 3BS, 12345678, 50.0, 1, purchased, PayPal, 19-05-2021
+103, BN1 3XP, 44556677, 8.55, 1, purchased, Credit Card, 19-05-2021
+102, E20 3BS, 11223344, 17.5, 1, purchased, Credit Card, 19-05-2021
+104, PA3 2SW, 11223344, 17.5, 2, purchased, PayPal, 20-02-2021
+104, PA3 2SW, 22334455, 14.20, 1, purchased, PayPal, 20-02-2021
+103, BN1 3XP, 11223344, 17.5, 2, purchased, Credit Card, 18-02-2021
+104, PA3 2SW, 44556688, 10.10, 3, cancelled, , 15-01-2021
+104, PA3 2SW, 33221144, 22.00, 1, cancelled, , 15-01-2021
+102, E20 3BS, 33112266, 5.00, 1, purchased, Credit Card, 10-01-2021
+103, BN1 3XP, 11223344, 17.5, 9, cancelled, , 19/05/2021
